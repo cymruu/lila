@@ -24,6 +24,7 @@ target
 data/
 dist/
 node_modules/
+.pnpm-store/
 local/
 ui/common/**/*.js
 ui/common/**/*.d.ts
@@ -54,4 +55,4 @@ RUNNING_PID
 .idea
 
 # Docker-compose
-/docker-compose.yml
+#/docker-compose.yml
